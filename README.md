@@ -1,4 +1,4 @@
-```markdown
+
 # AICodeReviewer
 
 A small utility and GitLab CI example that runs an AI-powered code review (via OpenAI) on the current merge request diff.
